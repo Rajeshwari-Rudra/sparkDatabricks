@@ -5,4 +5,4 @@ complex data type1, type2
 Complex data type3 -- Bigger one
 API Data reads 
 
-![email.png](Email & phone number)
+![Email & phone number](email.png)
